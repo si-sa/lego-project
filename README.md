@@ -5,6 +5,8 @@ I have used Jupyter, numpy, Pandas for data manipulation and seaborn for visuali
 
 The data is taken from their official Website https://rebrickable.com/downloads/
 
+Check the project code @ https://github.com/si-sa/lego-project/blob/master/lego-data-exploration.ipynb
+
 All the code written is my own and have used official documentations of pandas and seaborn for any guidance
 
 ## Summary
